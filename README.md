@@ -33,6 +33,8 @@ docker build -t batch-ml-image .
 docker run --memory=4g --cpus=2 -p 8888:8888 batch-ml-image
 ```
 
+3. Open the **Model-demo.ipynb** file to begin training the model.
+
 ## Documentation
 - [Link To Be Added](#)
 
