@@ -3,11 +3,11 @@
 This application offers a streamlined Jupyter Notebook environment that's optimized for containerization. Although based on a TensorFlow 2.12.0 image with Python 3.10 support, the notebook primarily employs XGBoost for model training. It provides a comprehensive data science pipeline, featuring data manipulation with pandas and machine learning via XGBoost. Fully containerized, this Jupyter-XGBoost notebook ensures effortless deployments using Docker.
 
 ## About
-📦 This app is purpose-built for container deployment, ensuring a uniform operating environment and hassle-free deployments via Docker.
-🚀 This app is powered by a [Jupyter Notebook](https://jupyter.org/) environment, an open-source web application that lets you create and share documents that contain live code, equations, visualizations, and narrative text.
-✅ The base image of this app incorporates [TensorFlow](https://www.tensorflow.org/), offering the flexibility to extend its capabilities for deep learning. TensorFlow is a leading open-source platform, renowned for its versatile machine learning toolkit and wide usage in handling unstructured data.
-💾 This app utilizes [pandas](https://pandas.pydata.org/) for data manipulation. Pandas provides fast, flexible, and expressive data structures designed to work with structured data.
-🗃️ This app leverages [XGBoost](https://xgboost.readthedocs.io/en/stable/) for gradient boosting. XGBoost is an optimized distributed gradient boosting library designed to be efficient, flexible, and is the most used library for structured, tabular data.
+* 📦 This app is purpose-built for container deployment, ensuring a uniform operating environment and hassle-free deployments via Docker.
+* 🚀 This app is powered by a [Jupyter Notebook](https://jupyter.org/) environment, an open-source web application that lets you create and share documents that contain live code, equations, visualizations, and narrative text.
+* ✅ The base image of this app incorporates [TensorFlow](https://www.tensorflow.org/), offering the flexibility to extend its capabilities for deep learning. TensorFlow is a leading open-source platform, renowned for its versatile machine learning toolkit and wide usage in handling unstructured data.
+* 💾 This app utilizes [pandas](https://pandas.pydata.org/) for data manipulation. Pandas provides fast, flexible, and expressive data structures designed to work with structured data.
+* 🗃️ This app leverages [XGBoost](https://xgboost.readthedocs.io/en/stable/) for gradient boosting. XGBoost is an optimized distributed gradient boosting library designed to be efficient, flexible, and is the most used library for structured, tabular data.
 
 ## Prerequisites
 - [Install Docker](https://docs.docker.com/get-docker/)
