@@ -1,0 +1,16 @@
+"ID","Temperature","Humidity","Label"
+1,Hot,Dry,Uncomfortable
+2,Cold,Wet,Uncomfortable
+3,Mild,Humid,Comfortable
+4,Hot,Humid,Uncomfortable
+5,Cold,Dry,Comfortable
+6,Mild,Dry,Comfortable
+7,Hot,Wet,Uncomfortable
+8,Cold,Humid,Uncomfortable
+9,Mild,Wet,Comfortable
+10,Hot,Dry,Uncomfortable
+11,Cold,Dry,Comfortable
+12,Mild,Humid,Comfortable
+13,Hot,Wet,Uncomfortable
+14,Cold,Wet,Uncomfortable
+15,Mild,Dry,Comfortable
