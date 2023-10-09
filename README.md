@@ -35,6 +35,7 @@ docker run --memory=4g --cpus=2 -p 8888:8888 batch-ml-image
 
 3. Open the **Model-demo.ipynb** file to begin training the model.
 
+![Jupyter Notebook](jupyter-notebook.png)
 ## Documentation
 - [Link To Be Added](#)
 
